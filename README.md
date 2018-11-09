@@ -1,5 +1,5 @@
 ## Code of Conduct
-The members of the Chennai-Ruby group are expected to follow a code of conduct. This document shall serve as the reference point for the code, and also as a place for discussion on any rules that need to be added/changed removed. 
+The members of the ChennaiGeeks group are expected to follow a code of conduct. This document shall serve as the reference point for the code, and also as a place for discussion on any rules that need to be added/changed removed. 
 
 ## Summary:
 1. No harrassment
@@ -20,7 +20,9 @@ Members shall not share any pirated content in online or offline discussions. Th
 ## Point of Contact
 The group will have a volunteer acting as a point of contact for complains against violations, whose email-id will be displayed on the website.
 
-Current Point of Contact: Abhishek (zerothabhishek@gmail.com)
+Current Point of Contact: 
+Magesh (pingmagesh@gmail.com)
+Abhishek (zerothabhishek@gmail.com)
 
 ## Note
 The code of conduct is applicable equally to all members. Its important to emphasize that the organizers, moderators, and experienced members are all expected to follow the rules, and can be penalised as appropriate in case of violations.
